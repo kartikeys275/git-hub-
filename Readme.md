@@ -1,3 +1,4 @@
 this is a readme file
-
-ls -a
+this is new statement
+this is a new statementpwd
+ls thitnoj sdkjcbis fakjfiwa;
